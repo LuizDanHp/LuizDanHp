@@ -1,9 +1,9 @@
-### Olá Mundo, eu sou o Luiz Danilo
-
-- 🔭 Hoje apenas faço faculdade de Ciencia da Computação
-- 🌱 Estudando Phyton
-- 🌱 Estudando HTML/CSS
-- 🌱Estudando JS
+### 🔭Seja bem-vindo ao meu perfil, eu sou o Luiz e estou cursando Ciências da Computação 
+### 🐲Tenho 22 anos, comecei a faculdade recentemente porem ja programo a um ano
+### ❤️No momento estou estudando:
+- 📘 Phyton
+- 📙 HTML/CSS
+- 📒 JS
 
 <div align="center">
   <a href="https://github.com/LuizDanHp">
