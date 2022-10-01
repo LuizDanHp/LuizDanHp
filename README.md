@@ -1,7 +1,8 @@
 ### 🔭Seja bem-vindo ao meu perfil, eu sou o Luiz e estou cursando Ciências da Computação 
-### 🐲Tenho 22 anos, comecei a faculdade recentemente porem ja programo a um ano
+### 🐲Tenho 23 anos, comecei na faculdade esse ano, porem ja programo a mais tempo
 ### ❤️No momento estou estudando:
 - 📘 Phyton
+- 📒 Java
 - 📙 HTML/CSS
 - 📒 JS
 
@@ -14,6 +15,7 @@
   ##
 
 <div style="display: inline_block"><br>
+  <img align="center" alt="Luiz-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-plain.svg">
   <img align="center" alt="Luiz-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Luiz-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
   <img align="center" alt="Luiz-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
