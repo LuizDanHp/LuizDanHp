@@ -1,5 +1,5 @@
 ### 🔭Seja bem-vindo ao meu perfil, eu sou o Luiz e estou cursando Ciências da Computação 
-### 🐲Tenho 23 anos, comecei na faculdade esse ano, porem ja programo a mais tempo
+### 🐲Tenho 23 anos, comecei na faculdade ano passado, porem ja programo a mais tempo
 ### ❤️No momento estou estudando:
 - 📘 Phyton
 - 📒 Java
