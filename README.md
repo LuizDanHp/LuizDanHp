@@ -1,10 +1,9 @@
 ### 🔭Seja bem-vindo ao meu perfil, eu sou o Luiz e estou cursando Ciências da Computação 
-### 🐲Tenho 23 anos, comecei na faculdade ano passado, porem ja programo a mais tempo
-### ❤️No momento estou estudando:
-- 📘 Phyton
+### 🐲Tenho 24 anos, comecei na faculdade a 2 anos, porem ja programo a mais tempo
+### ❤️No momento estou utilizando muito:
+
 - 📒 Java
-- 📙 HTML/CSS
-- 📒 JS
+- 📘 Camel
 
 <div align="center">
   <a href="https://github.com/LuizDanHp">
