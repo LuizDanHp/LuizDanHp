@@ -1,6 +1,6 @@
-### 🔭Seja bem-vindo ao meu perfil, eu sou o Luiz e estou cursando Ciências da Computação 
-### 🐲Tenho 24 anos, comecei na faculdade a 2 anos, porem ja programo a mais tempo
-### ❤️No momento estou utilizando muito:
+### 🔭Seja bem-vindo ao meu perfil, me chamo Luiz, atuo na area a 1 ano e 7 meses e estou cursando Ciências da Computação
+### 🐲Tenho 26 anos, comecei na faculdade a 3 anos, porem programo a mais tempo.
+### ❤️No momento estou focado em:
 
 - 📒 Java
 - 📘 Camel
