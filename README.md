@@ -1,10 +1,10 @@
-### 🔭Seja bem-vindo ao meu perfil, me chamo Luiz, atuo na area a 1 ano e 7 meses e estou cursando Ciências da Computação
-### 🐲Tenho 26 anos, comecei na faculdade a 3 anos, porem programo a mais tempo.
+### 🔭Seja bem-vindo ao meu perfil
+### 🐲26 anos
 ### ❤️No momento estou focado em:
 
 - 📒 Java
-- 📘 Camel
-
+  - 📘 Camel
+  - 📘 Spring Boot
 <div align="center">
   <a href="https://github.com/LuizDanHp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=LuizDanHp&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
